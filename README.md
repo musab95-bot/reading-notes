@@ -16,7 +16,7 @@ To keep myself in growth mindset, I should
 
 
 
-(https://theartofliving.com/growth-mindset-quotes/)
+[the following link has a qutation](https://theartofliving.com/growth-mindset-quotes/)
 
 
 
