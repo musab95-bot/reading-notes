@@ -10,7 +10,8 @@
 To keep myself in growth mindset, I should  
 - have passion to continue working and searching to learn as much as I can.
 - do not compare myself with others, but trying to eliminate them and improving what I get. 
-- be open to all suggestions and critiques as a method to know where I have shortcomings and mistakes. :EMOJICODE:
+- be open to all suggestions and critiques as a method to know where I have shortcomings and mistakes. @octocat :+1:
+
 
 
 
