@@ -11,7 +11,8 @@ On the other hand, fixed learning is about depending only on the intelligence of
 
 
 
-[https://theartofliving.com/growth-mindset-quotes/]
+(https://theartofliving.com/growth-mindset-quotes/)
+
 
 
 
