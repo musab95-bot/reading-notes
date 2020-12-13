@@ -1,3 +1,4 @@
-# reading-notes.
-In this leature we learnt the following 
+# reading-notes
+**In this leature we learnt the following** 
+
 
