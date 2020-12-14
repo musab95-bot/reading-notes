@@ -21,7 +21,9 @@ Text editor can be beneficial in different ways. For example:
 ###The reasons behind using it, are as following:
 
 1.It is accessible for Windows computers, Mac computers and Linux computers. 
+
 2.VS Code has the ability to create HTML and CSS because it has a built-in environment to deal with these concepts. 
+
 3. VS Code has everything: language structure highlighting, topics, expansions and code completion.
 
 
