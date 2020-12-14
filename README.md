@@ -16,7 +16,7 @@ Text editor can be beneficial in different ways. For example:
 
 ***There are several types of text editiors. for example, Notepad++, Text Wrangler, BB Edit, Visual Studio Code, Atom, Brackets, and Sublime Text.e.***
 
-*** In this course, we will use Visual studio code***.
+*** In this course, we will use Visual studio code***
 
 ###The reasons behind using it, are as following:
 
