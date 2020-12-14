@@ -1,16 +1,25 @@
 # reading-notes
 **In this leature we learnt the following** 
 
-## The second largest heading
+## what is text editor 
 
-*Mindset which is the state of being is an important thing when learning anything new. The main attribute of growth mindset that it depends of effort despite the intelligence level and the most important aspect is the passion to learn.*
-
-***On the other hand, fixed learning is about depending only on the intelligence of the person without doing any effort. Mindset growth accepts challenges and keep trying to overcome them. sometimes, when things get harder, changing the mood might be a solution. After that, back to solve the problem. In addition, doing more effort is better than taking rest, even for the spirit.  Also, accepting critique as a method for improving ourselves is a key to reach success. Finally, having benefits of others’ skills to enhance personal skills is the final attribute of growth mindset.***
+*A text editor is a piece of program that I just download and introduce on my computer, that permits me to type in and check the text, particularly the text that I just compose to construct a website.*
 
 
+Text editor can be beneficial in different ways. For example:
+- code completion
+- writing your HTML and CSS in efficient methods
+- syntax highlighting which providing colors to the text to ease reading it.
+- Finally, changing the theme of work enviornment. 
 
+***There are several types of text editiors. for example, Notepad++, Text Wrangler, BB Edit, Visual Studio Code, Atom, Brackets, and Sublime Text.e.***
 
+*** In this course, we will use Visual studio code***
 
+To keep myself in growth mindset, I should  
+- have passion to continue working and searching to learn as much as I can.
+- do not compare myself with others, but trying to eliminate them and improving what I get. 
+- be open to all suggestions and critiques as a method to know where I have shortcomings and mistakes. :+1:
 
 
 [the following link has a qutation](https://theartofliving.com/growth-mindset-quotes/)
