@@ -12,17 +12,19 @@ Text editor can be beneficial in different ways. For example:
 - syntax highlighting which providing colors to the text to ease reading it.
 - Finally, changing the theme of work enviornment. 
 
+### Examples 
+
 ***There are several types of text editiors. for example, Notepad++, Text Wrangler, BB Edit, Visual Studio Code, Atom, Brackets, and Sublime Text.e.***
 
-*** In this course, we will use Visual studio code***
+*** In this course, we will use Visual studio code***.
+The reasons behind using it, are as following:
+1.It is accessible for Windows computers, Mac computers and Linux computers. 
+2.VS Code has the ability to create HTML and CSS because it has a built-in environment to deal with these concepts. 
+3. VS Code has everything: language structure highlighting, topics, expansions and code completion.
 
-To keep myself in growth mindset, I should  
-- have passion to continue working and searching to learn as much as I can.
-- do not compare myself with others, but trying to eliminate them and improving what I get. 
-- be open to all suggestions and critiques as a method to know where I have shortcomings and mistakes. :+1:
 
 
-[the following link has a qutation](https://theartofliving.com/growth-mindset-quotes/)
+
 
 
 
