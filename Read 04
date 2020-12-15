@@ -9,3 +9,9 @@ The point of making these new components is to let page creator to utilize coe t
 There are different types of these elements. It depends of the reson that we use them. for example, header, artical 
 
 these element are put at the begining and the ending of each package that you want to cover.
+
+
+## Chapter 8 
+
+first,  different versions of HTML were introduced. Then o add a comment to the code to be more familiarize with writing the code of the page. Also, using attribues was introduced 
+which are used to make elemet different from others whether by using ID or class. 
