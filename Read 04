@@ -13,5 +13,5 @@ these element are put at the begining and the ending of each package that you wa
 
 ## Chapter 8 
 
-first,  different versions of HTML were introduced. Then o add a comment to the code to be more familiarize with writing the code of the page. Also, using attribues was introduced 
-which are used to make elemet different from others whether by using ID or class. 
+first,  different versions of HTML were introduced. Then, add a comment to the code to be more familiarize with writing the code of the page. Also, using attribues was introduced 
+which are used to make elemet different from others whether by using ID or class. Also, inline elements. This is used to bold some elements in the same line. 
