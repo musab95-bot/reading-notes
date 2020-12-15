@@ -6,4 +6,6 @@ web page creators utilizing them as of now.
 ## use
 The point of making these new components is to let page creator to utilize coe to help portray the structure of the page.
 
-There are different types of these elements. It depends of the reson that we use them. for example, 
+There are different types of these elements. It depends of the reson that we use them. for example, header, artical 
+
+these element are put at the begining and the ending of each package that you want to cover.
