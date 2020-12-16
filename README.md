@@ -19,6 +19,11 @@ It is used to compare between tow things in the script. There are different type
 
 
 *dragonfly*
+* dragonfly
+> dragonfly
+# dragonfly
+& dragonfly
+`dragonfly`
 
 
 
