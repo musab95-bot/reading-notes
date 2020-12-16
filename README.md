@@ -1,6 +1,25 @@
-In these videos, several topics were introduced. 
-First, electrical signal is what makes computers, computers. Also, it was introduced the relationship between circuits with visual reality and the relationship between CPU and memory. And according to this, computers help us to think and taking decisions. The computer works like humans. It takes the information as an input and making a process and then give the results. The structure of computer is circuits and wires, and this is what is called hardware. According to software aspect, computer uses 01 language. 
+ **In the reading 08 Comparison operators were introduced.**
+It is used to compare between tow things in the script. There are different types of it. 
+-If equal to
+-If not equal
+-Strict equal to 
+-Strict not equal to 
+-Greater than
+-Smaller than
+-Greater than or equal to 
+-Less than or equal to
 
-The ability of computers can be beneficial for humans in different ways. It can help to solve complicated problems in our daily lives. But computers mindset is different as mentioned. But we can give it inputs through its tools like keyboard and mouse. 
+**Also types of logical operators like (and, or and not).**
+- The process depends on what kind of process is met the conditions. If they are true or false. The result differs in each logical operator. 
 
-To conclude, computers consist of software and hardware things. People deal with hardware tools like mouse and keyboard which provide the computer of inputs. Then, it process the inputs and give results to us. 
+**Then, loops were introduced**
+In loops if the results for the loop is still true, then it will continue. Else it will stop looping. There are different types of loop, For example, while, for, and do while. The different between for and while that in while you do not know the number of loops. Do while is similar to while loop. In writing any loop you need the loop name then condition counter in parenthesis. And then opening curly brace.  
+
+Finally an example of while loop was introduced showing the loop will continue until the condition is met. 
+
+
+
+
+
+
+
