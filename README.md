@@ -1,16 +1,6 @@
-**Intro + Scripts: Pages 1 - 24**
-first, a defition of a script which is a set of rules that computer can follow to achieve something. JavaScrip is needed to make css and HTML connected and more interactive.
-therefore, before writing a scritp, the goal must be clear.becuase computer follow the instructions only. also, the design and the code must be clear as well. designing 
-includes making diagrams of way of thinking then trying to translate them to code. 
+In these videos, several topics were introduced. 
+First, electrical signal is what makes computers, computers. Also, it was introduced the relationship between circuits with visual reality and the relationship between CPU and memory. And according to this, computers help us to think and taking decisions. The computer works like humans. It takes the information as an input and making a process and then give the results. The structure of computer is circuits and wires, and this is what is called hardware. According to software aspect, computer uses 01 language. 
 
-**Expressions + Operators: 74 - 79**
-An expression evaluates into a single value. Through expression, it can store values in variables, these value could be single number or an operatio or a string.
-according to mathmatical operation, there are several types. in strings, a we assign words rather than numbers. Also, there are Boolean values whcih have results
-whether true or false 
+The ability of computers can be beneficial for humans in different ways. It can help to solve complicated problems in our daily lives. But computers mindset is different as mentioned. But we can give it inputs through its tools like keyboard and mouse. 
 
-
-**Functions:**
-functions help to achieve a cert certain task by wiriting a set of statment. when using function, there is a calling which is a requierment from the function to achvieve 
-task. Also, there is a parameter and return value. So, when writing a function, we type "function" then its name. and to call it, we type function name then ();
-
-in functions, we can get return values and use multiple values inside the function 
+To conclude, computers consist of software and hardware things. People deal with hardware tools like mouse and keyboard which provide the computer of inputs. Then, it process the inputs and give results to us. 
