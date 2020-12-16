@@ -1,18 +1,16 @@
-**overview**
-These elements help to  describe the structure of HTML codes. They are used for organizing. they are set of components that permit to isolate up the parts of a page. 
-The names of these components show the kind of substance you'll discover in them. They are still subject to alter, but that has not ceased numerous
-web page creators utilizing them as of now.
+**  Intro + Scripts: Pages 1 - 24**
+first, a defition of a script which is a set of rules that computer can follow to achieve something. JavaScrip is needed to make css and HTML connected and more interactive.
+therefore, before writing a scritp, the goal must be clear.becuase computer follow the instructions only. also, the design and the code must be clear as well. designing 
+includes making diagrams of way of thinking then trying to translate them to code. 
 
-**use**
--The point of making these new components is to let page creator to utilize coe to help portray the structure of the page.
-
--There are different types of these elements. It depends of the reson that we use them. for example, header, artical 
-
--these element are put at the begining and the ending of each package that you want to cover.
+**Expressions + Operators: 74 - 79**
+An expression evaluates into a single value. Through expression, it can store values in variables, these value could be single number or an operatio or a string.
+according to mathmatical operation, there are several types. in strings, a we assign words rather than numbers. Also, there are Boolean values whcih have results
+whether true or false 
 
 
-**Chapter 8**
+**Functions: **
+functions help to achieve a cert certain task by wiriting a set of statment. when using function, there is a calling which is a requierment from the function to achvieve 
+task. Also, there is a parameter and return value. So, when writing a function, we type "function" then its name. and to call it, we type function name then ();
 
-first,  different versions of HTML were introduced. Then, add a comment to the code to be more familiarize with writing the code of the page. Also, using attribues was introduced 
-which are used to make elemet different from others whether by using ID or class. Also, inline elements. This is used to bold some elements in the same line. After that, grouping text 
-by using <div> and <spam> to make them together in one box.And finally, meta to describe the code
+in functions, we can get return values and use multiple values inside the function 
