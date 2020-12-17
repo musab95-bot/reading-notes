@@ -9,4 +9,4 @@
 - clone it by writing git clone and copying link of HTTPS
 - it sould be in the file
 - finally, pushing the file by using git push origin master
-- if any changes have made on the file on HTML in visual studio, then it will copied to githup
+- if any changes have made on the file on HTML in visual studio, then it will copied to githup.
